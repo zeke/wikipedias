@@ -1,0 +1,1850 @@
+[
+  {
+    "code": "en",
+    "language": "English",
+    "script": "English",
+    "name": "English Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "de",
+    "language": "German",
+    "script": "Latn",
+    "name": "German Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "fr",
+    "language": "French",
+    "script": "Latn",
+    "name": "French Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "nl",
+    "language": "Dutch",
+    "script": "Latn",
+    "name": "Dutch Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "it",
+    "language": "Italian",
+    "script": "Latn",
+    "name": "Italian Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "es",
+    "language": "Spanish",
+    "script": "Latn",
+    "name": "Spanish Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "ru",
+    "language": "Russian",
+    "script": "Cyrl",
+    "name": "Russian Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "sv",
+    "language": "Swedish",
+    "script": "Latn",
+    "name": "Swedish Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "pl",
+    "language": "Polish",
+    "script": "Latn",
+    "name": "Polish Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "ja",
+    "language": "Japanese",
+    "script": "Jpan",
+    "name": "Japanese Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "pt",
+    "language": "Portuguese",
+    "script": "English",
+    "name": "Portuguese Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "ar",
+    "language": "Arabic",
+    "script": "Arab",
+    "name": "Arabic Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "zh",
+    "language": "Chinese",
+    "script": "Hans/Hant",
+    "name": "Chinese Wikipedia",
+    "size": "6"
+  },
+  {
+    "code": "uk",
+    "language": "Ukrainian",
+    "script": "Cyrl",
+    "name": "Ukrainian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "ca",
+    "language": "Catalan",
+    "script": "Latn",
+    "name": "Catalan Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "no",
+    "language": "Norwegian (Bokmål)",
+    "script": "Latn",
+    "name": "Bokmål/Riksmål Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "fi",
+    "language": "Finnish",
+    "script": "Latn",
+    "name": "Finnish Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "cs",
+    "language": "Czech",
+    "script": "Latn",
+    "name": "Czech Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "hu",
+    "language": "Hungarian",
+    "script": "Latn",
+    "name": "Hungarian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "tr",
+    "language": "Turkish",
+    "script": "Latn",
+    "name": "Turkish Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "ro",
+    "language": "Romanian",
+    "script": "Latn",
+    "name": "Romanian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "sw",
+    "language": "Swahili",
+    "script": "English",
+    "name": "Swahili Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "ko",
+    "language": "Korean",
+    "script": "Hang",
+    "name": "Korean Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "kk",
+    "language": "Kazakh",
+    "script": "Cyrl / Latin / Arab",
+    "name": "Kazakh Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "vi",
+    "language": "Vietnamese",
+    "script": "Latn",
+    "name": "Vietnamese Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "da",
+    "language": "Danish",
+    "script": "Latn",
+    "name": "Danish Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "eo",
+    "language": "Esperanto",
+    "script": "Latn",
+    "name": "Esperanto Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "sr",
+    "language": "Serbian",
+    "script": "Cyrl/Latn",
+    "name": "Serbian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "id",
+    "language": "Indonesian",
+    "script": "Latn",
+    "name": "Indonesian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "lt",
+    "language": "Lithuanian",
+    "script": "Latn",
+    "name": "Lithuanian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "vo",
+    "language": "Volapük",
+    "script": "Latn",
+    "name": "Volapük Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "sk",
+    "language": "Slovak",
+    "script": "Latn",
+    "name": "Slovak Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "he",
+    "language": "Hebrew",
+    "script": "Hebr",
+    "name": "Hebrew Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "fa",
+    "language": "Persian",
+    "script": "Perso",
+    "name": "Persian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "bg",
+    "language": "Bulgarian",
+    "script": "Cyrl",
+    "name": "Bulgarian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "sl",
+    "language": "Slovene",
+    "script": "Latn",
+    "name": "Slovene Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "eu",
+    "language": "Basque",
+    "script": "Latn",
+    "name": "Basque Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "war",
+    "language": "Waray-Waray",
+    "script": "Latn",
+    "name": "Waray-Waray Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "lmo",
+    "language": "Lombard",
+    "script": "Latn",
+    "name": "Lombard Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "et",
+    "language": "Estonian",
+    "script": "Latn",
+    "name": "Estonian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "hr",
+    "language": "Croatian",
+    "script": "Latn",
+    "name": "Croatian Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "new",
+    "language": "Newar / Nepal Bhasa",
+    "script": "Deva",
+    "name": "Newar Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "te",
+    "language": "Telugu",
+    "script": "Telu",
+    "name": "Telugu Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "nn",
+    "language": "Norwegian (Nynorsk)",
+    "script": "Latn",
+    "name": "Nynorsk Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "th",
+    "language": "Thai",
+    "script": "Thai",
+    "name": "Thai Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "gl",
+    "language": "Galician",
+    "script": "Latn",
+    "name": "Galician Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "el",
+    "language": "Greek",
+    "script": "Grek",
+    "name": "Greek Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ceb",
+    "language": "Cebuano",
+    "script": "Latn",
+    "name": "Cebuano Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "simple",
+    "language": "Simple English",
+    "script": "Latn",
+    "name": "Simple English Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ms",
+    "language": "Malay",
+    "script": "Latn",
+    "name": "Malay Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "ht",
+    "language": "Haitian",
+    "script": "Latn",
+    "name": "Haitian Creole Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "bs",
+    "language": "Bosnian",
+    "script": "Latn",
+    "name": "Bosnian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "bpy",
+    "language": "Bishnupriya Manipuri",
+    "script": "Beng",
+    "name": "Bishnupriya Manipuri Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "lb",
+    "language": "Luxembourgish",
+    "script": "Latn",
+    "name": "Luxembourgish Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ka",
+    "language": "Georgian",
+    "script": "Geor",
+    "name": "Georgian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "is",
+    "language": "Icelandic",
+    "script": "Latn",
+    "name": "Icelandic Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "sq",
+    "language": "Albanian",
+    "script": "Latn",
+    "name": "Albanian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "la",
+    "language": "Latin",
+    "script": "Latn",
+    "name": "Latin Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "br",
+    "language": "Breton",
+    "script": "Latn",
+    "name": "Breton Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "hi",
+    "language": "Hindi",
+    "script": "Deva",
+    "name": "Hindi Wikipedia",
+    "size": "5"
+  },
+  {
+    "code": "az",
+    "language": "Azerbaijani",
+    "script": "Latn/Arab",
+    "name": "Azerbaijani Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "bn",
+    "language": "Bengali",
+    "script": "Beng",
+    "name": "Bengali Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "mk",
+    "language": "Macedonian",
+    "script": "Cyrl",
+    "name": "Macedonian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "mr",
+    "language": "Marathi",
+    "script": "Deva",
+    "name": "Marathi Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "sh",
+    "language": "Serbo-Croatian",
+    "script": "Latn/Cyrl",
+    "name": "Serbo-Croatian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "tl",
+    "language": "Tagalog",
+    "script": "Latn",
+    "name": "Tagalog Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "cy",
+    "language": "Welsh",
+    "script": "Latn",
+    "name": "Welsh Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "io",
+    "language": "Ido",
+    "script": "Latn",
+    "name": "Ido Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "pms",
+    "language": "Piedmontese",
+    "script": "Latn",
+    "name": "Piedmontese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "lv",
+    "language": "Latvian",
+    "script": "Latn",
+    "name": "Latvian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ta",
+    "language": "Tamil",
+    "script": "Taml",
+    "name": "Tamil Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "su",
+    "language": "Sundanese",
+    "script": "Latn",
+    "name": "Sundanese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "oc",
+    "language": "Occitan",
+    "script": "Latn",
+    "name": "Occitan Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "jv",
+    "language": "Javanese",
+    "script": "Latn",
+    "name": "Javanese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "nap",
+    "language": "Neapolitan",
+    "script": "Latn",
+    "name": "Neapolitan Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "nds",
+    "language": "Low Saxon",
+    "script": "Latn",
+    "name": "Low Saxon Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "scn",
+    "language": "Sicilian",
+    "script": "Latn",
+    "name": "Sicilian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "be",
+    "language": "Belarusian",
+    "script": "Cyrl",
+    "name": "Belarusian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ast",
+    "language": "Asturian",
+    "script": "Latn",
+    "name": "Asturian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ku",
+    "language": "Kurdish",
+    "script": "Latn/Arab",
+    "name": "Kurdish Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "wa",
+    "language": "Walloon",
+    "script": "Latn",
+    "name": "Walloon Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "af",
+    "language": "Afrikaans",
+    "script": "Latn",
+    "name": "Afrikaans Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "be-x-old",
+    "language": "Belarusian (Taraškievica)",
+    "script": "Cyrl",
+    "name": "Belarusian (Taraškievica) Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "an",
+    "language": "Aragonese",
+    "script": "Latn",
+    "name": "Aragonese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ksh",
+    "language": "Ripuarian",
+    "script": "Latn",
+    "name": "Ripuarian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "szl",
+    "language": "Silesian",
+    "script": "Latn",
+    "name": "Silesian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "fy",
+    "language": "West Frisian",
+    "script": "Latn",
+    "name": "West Frisian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "frr",
+    "language": "North Frisian",
+    "script": "Latn",
+    "name": "North Frisian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "yue",
+    "language": "Cantonese",
+    "script": "Hant",
+    "name": "Cantonese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ur",
+    "language": "Urdu",
+    "script": "Arab",
+    "name": "Urdu Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ia",
+    "language": "Interlingua",
+    "script": "Latn/Arab",
+    "name": "Interlingua Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ga",
+    "language": "Irish",
+    "script": "Latn",
+    "name": "Irish Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "yi",
+    "language": "Yiddish",
+    "script": "Hebr",
+    "name": "Yiddish Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "als",
+    "language": "Alemannic",
+    "script": "Latn",
+    "name": "Alemannic Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "hy",
+    "language": "Armenian",
+    "script": "Armn",
+    "name": "Armenian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "am",
+    "language": "Amharic",
+    "script": "Geez",
+    "name": "Amharic Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "roa-rup",
+    "language": "Aromanian",
+    "script": "Latn",
+    "name": "Aromanian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "map-bms",
+    "language": "Banyumasan",
+    "script": "Latn",
+    "name": "Banyumasan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "bh",
+    "language": "Bihari",
+    "script": "Deva",
+    "name": "Bihari Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "co",
+    "language": "Corsican",
+    "script": "Latn",
+    "name": "Corsican Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "cv",
+    "language": "Chuvash",
+    "script": "Latn",
+    "name": "Chuvash Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "dv",
+    "language": "Divehi",
+    "script": "Thaa",
+    "name": "Divehi Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "nds-nl",
+    "language": "Dutch Low Saxon",
+    "script": "Latn",
+    "name": "Dutch Low Saxon Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "fo",
+    "language": "Faroese",
+    "script": "Latn",
+    "name": "Faroese Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "fur",
+    "language": "Friulian",
+    "script": "Latn",
+    "name": "Friulian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "glk",
+    "language": "Gilaki",
+    "script": "Perso",
+    "name": "Gilaki Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "gu",
+    "language": "Gujarati",
+    "script": "Gujr",
+    "name": "Gujarati Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "ilo",
+    "language": "Ilokano",
+    "script": "Latn",
+    "name": "Ilokano Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "kn",
+    "language": "Kannada",
+    "script": "Knda",
+    "name": "Kannada Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "pam",
+    "language": "Kapampangan",
+    "script": "Latn",
+    "name": "Kapampangan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "csb",
+    "language": "Kashubian",
+    "script": "Latn",
+    "name": "Kashubian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "km",
+    "language": "Khmer",
+    "script": "Khmr",
+    "name": "Khmer Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "lij",
+    "language": "Ligurian",
+    "script": "Latn",
+    "name": "Ligurian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "li",
+    "language": "Limburgish",
+    "script": "Latn",
+    "name": "Limburgish Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ml",
+    "language": "Malayalam",
+    "script": "Mlym",
+    "name": "Malayalam Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "gv",
+    "language": "Manx",
+    "script": "Latn",
+    "name": "Manx Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mi",
+    "language": "Māori",
+    "script": "Latn",
+    "name": "Māori Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mt",
+    "language": "Maltese",
+    "script": "Latn",
+    "name": "Maltese Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "nah",
+    "language": "Nāhuatl",
+    "script": "Latn",
+    "name": "Nāhuatl Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ne",
+    "language": "Nepali",
+    "script": "Deva",
+    "name": "Nepali Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "nrm",
+    "language": "Norman",
+    "script": "Latn",
+    "name": "Norman Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "se",
+    "language": "Northern Sami",
+    "script": "Latn",
+    "name": "Northern Sami Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "nov",
+    "language": "Novial",
+    "script": "Latn",
+    "name": "Novial Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "qu",
+    "language": "Quechua",
+    "script": "Latn",
+    "name": "Quechua Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "os",
+    "language": "Ossetian",
+    "script": "Cyrl",
+    "name": "Ossetian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "pi",
+    "language": "Pali",
+    "script": "Deva",
+    "name": "Pali Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "pag",
+    "language": "Pangasinan",
+    "script": "Latn",
+    "name": "Pangasinan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ps",
+    "language": "Pashto",
+    "script": "Arab",
+    "name": "Pashto Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "pdc",
+    "language": "Pennsylvania German",
+    "script": "Latn",
+    "name": "Pennsylvania German Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "rm",
+    "language": "Romansh",
+    "script": "Latn",
+    "name": "Romansh Wikipedia[c]",
+    "size": "3"
+  },
+  {
+    "code": "bat-smg",
+    "language": "Samogitian",
+    "script": "Latn",
+    "name": "Samogitian Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "sa",
+    "language": "Sanskrit",
+    "script": "Deva",
+    "name": "Sanskrit Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "gd",
+    "language": "Scottish Gaelic",
+    "script": "Latn",
+    "name": "Scottish Gaelic Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "sco",
+    "language": "Scots",
+    "script": "Latn",
+    "name": "Scots Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "sc",
+    "language": "Sardinian",
+    "script": "Latn",
+    "name": "Sardinian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "si",
+    "language": "Sinhalese",
+    "script": "Sinh",
+    "name": "Sinhalese Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tg",
+    "language": "Tajik",
+    "script": "Cyrl",
+    "name": "Tajik Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "roa-tara",
+    "language": "Tarantino",
+    "script": "Latn",
+    "name": "Tarantino Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tt",
+    "language": "Tatar",
+    "script": "Cyrl/Latn",
+    "name": "Tatar Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "to",
+    "language": "Tongan",
+    "script": "Latn",
+    "name": "Tongan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tk",
+    "language": "Turkmen",
+    "script": "Latn",
+    "name": "Turkmen Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "hsb",
+    "language": "Upper Sorbian",
+    "script": "Latn",
+    "name": "Upper Sorbian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "uz",
+    "language": "Uzbek",
+    "script": "Latn/Cyrl",
+    "name": "Uzbek Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "vec",
+    "language": "Venetian",
+    "script": "Latn",
+    "name": "Venetian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "fiu-vro",
+    "language": "Võro",
+    "script": "Latn",
+    "name": "Voro Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "wuu",
+    "language": "Wu",
+    "script": "Hans",
+    "name": "Wu Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "vls",
+    "language": "West Flemish",
+    "script": "Latn",
+    "name": "West Flemish Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "yo",
+    "language": "Yoruba",
+    "script": "Latn",
+    "name": "Yoruba Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "diq",
+    "language": "Zazaki",
+    "script": "Latn",
+    "name": "Zazaki Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "zh-min-nan",
+    "language": "Min Nan",
+    "script": "Latn",
+    "name": "Min Nan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "zh-classical",
+    "language": "Classical Chinese",
+    "script": "Hant",
+    "name": "Classical Chinese Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "frp",
+    "language": "Franco-Provençal/Arpitan",
+    "script": "Latn",
+    "name": "Franco-Provençal Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "lad",
+    "language": "Ladino",
+    "script": "Latn",
+    "name": "Ladino Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "bar",
+    "language": "Bavarian",
+    "script": "Latn",
+    "name": "Bavarian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "bcl",
+    "language": "Central_Bicolano",
+    "script": "Latn",
+    "name": "Central Bicolano Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "kw",
+    "language": "Cornish",
+    "script": "Latn",
+    "name": "Cornish Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mn",
+    "language": "Mongolian",
+    "script": "Cyrl",
+    "name": "Mongolian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "haw",
+    "language": "Hawaiian",
+    "script": "Latn",
+    "name": "Hawaiian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ang",
+    "language": "Anglo-Saxon",
+    "script": "Latn",
+    "name": "Anglo-Saxon Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ln",
+    "language": "Lingala",
+    "script": "Latn",
+    "name": "Lingala Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ie",
+    "language": "Interlingue",
+    "script": "Latn",
+    "name": "Interlingue Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "wo",
+    "language": "Wolof",
+    "script": "Latn",
+    "name": "Wolof Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tpi",
+    "language": "Tok Pisin",
+    "script": "Latn",
+    "name": "Tok Pisin Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ty",
+    "language": "Tahitian",
+    "script": "Latn",
+    "name": "Tahitian Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "crh",
+    "language": "Crimean Tatar",
+    "script": "Latn",
+    "name": "Crimean Tatar Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "jbo",
+    "language": "Lojban",
+    "script": "Latn",
+    "name": "Lojban Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ay",
+    "language": "Aymara",
+    "script": "Latn",
+    "name": "Aymara Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "zea",
+    "language": "Zealandic",
+    "script": "Latn",
+    "name": "Zealandic Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "eml",
+    "language": "Emilian-Romagnol",
+    "script": "Latn",
+    "name": "Emilian-Romagnol Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ky",
+    "language": "Kyrgyz",
+    "script": "Cyrl",
+    "name": "Kyrgyz Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ig",
+    "language": "Igbo",
+    "script": "Latn",
+    "name": "Igbo Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "or",
+    "language": "Oriya",
+    "script": "Orya",
+    "name": "Oriya Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mg",
+    "language": "Malagasy",
+    "script": "Latn",
+    "name": "Malagasy Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "cbk-zam",
+    "language": "Zamboanga Chavacano",
+    "script": "Latn",
+    "name": "Zamboanga Chavacano Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "kg",
+    "language": "Kongo",
+    "script": "Latn",
+    "name": "Kongo Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "arc",
+    "language": "Syriac",
+    "script": "Syrc",
+    "name": "Syriac Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "rmy",
+    "language": "Vlax Romani",
+    "script": "Latn/Deva",
+    "name": "Vlax Romani Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "gn",
+    "language": "Guarani",
+    "script": "Latn",
+    "name": "Guarani Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mo (closed)",
+    "language": "Moldovan",
+    "script": "Cyrl",
+    "name": "Moldovan Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "so",
+    "language": "Somali",
+    "script": "Latn",
+    "name": "Somali Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "kab",
+    "language": "Kabyle",
+    "script": "Latn",
+    "name": "Kabyle Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ks",
+    "language": "Kashmiri",
+    "script": "Arab/Deva",
+    "name": "Kashmiri Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "stq",
+    "language": "Saterland Frisian",
+    "script": "Latn",
+    "name": "Saterland Frisian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ce",
+    "language": "Chechen",
+    "script": "Cyrl",
+    "name": "Chechen Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "udm",
+    "language": "Udmurt",
+    "script": "Cyrl",
+    "name": "Udmurt Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "mzn",
+    "language": "Mazandarani",
+    "script": "Perso",
+    "name": "Mazandarani Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "pap",
+    "language": "Papiamentu",
+    "script": "Latn",
+    "name": "Papiamentu Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "cu",
+    "language": "Old Church Slavonic",
+    "script": "Cyrs",
+    "name": "Old Church Slavonic Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "sah",
+    "language": "Sakha",
+    "script": "Cyrl",
+    "name": "Sakha Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tet",
+    "language": "Tetum",
+    "script": "Latn",
+    "name": "Tetum Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "sd",
+    "language": "Sindhi",
+    "script": "Arab",
+    "name": "Sindhi Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "lo",
+    "language": "Lao",
+    "script": "Laoo",
+    "name": "Lao Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ba",
+    "language": "Bashkir",
+    "script": "Cyrl",
+    "name": "Bashkir Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "pnb",
+    "language": "Punjabi",
+    "script": "Shahmukhi",
+    "name": "Western Punjabi Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "iu",
+    "language": "Inuktitut",
+    "script": "Cans/Latn",
+    "name": "Iniktitut Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "na",
+    "language": "Nauruan",
+    "script": "Latn",
+    "name": "Nauruan Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "got",
+    "language": "Gothic",
+    "script": "Goth",
+    "name": "Gothic Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "bo",
+    "language": "Tibetan",
+    "script": "Tibt",
+    "name": "Tibetan Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "dsb",
+    "language": "Lower Sorbian",
+    "script": "Latn",
+    "name": "Lower Sorbian Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "chr",
+    "language": "Cherokee",
+    "script": "Cher",
+    "name": "Cherokee Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "cdo",
+    "language": "Min Dong",
+    "script": "Latn",
+    "name": "Min Dong Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "hak",
+    "language": "Hakka",
+    "script": "Latn",
+    "name": "Hakka Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "om",
+    "language": "Oromo",
+    "script": "Latn",
+    "name": "Oromo Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "my",
+    "language": "Burmese",
+    "script": "Mymr",
+    "name": "Burmese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "sm",
+    "language": "Samoan",
+    "script": "Latn",
+    "name": "Samoan Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ee",
+    "language": "Ewe",
+    "script": "Latn",
+    "name": "Ewe Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "pcd",
+    "language": "Picard",
+    "script": "Latn",
+    "name": "Picard Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ug",
+    "language": "Uyghur",
+    "script": "Latn/Arab",
+    "name": "Uyghur Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "as",
+    "language": "Assamese",
+    "script": "Beng",
+    "name": "Assamese Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ti",
+    "language": "Tigrinya",
+    "script": "Ethi",
+    "name": "Tigrinya Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "av",
+    "language": "Avar",
+    "script": "Cyrl",
+    "name": "Avar Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "bm",
+    "language": "Bambara",
+    "script": "Latn",
+    "name": "Bambara Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "zu",
+    "language": "Zulu",
+    "script": "Latn",
+    "name": "Zulu Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "pnt",
+    "language": "Pontic",
+    "script": "Grek",
+    "name": "Pontic Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "nv",
+    "language": "Navajo",
+    "script": "Latn",
+    "name": "Navajo Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "cr",
+    "language": "Cree",
+    "script": "Cans/Latn",
+    "name": "Cree Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "pih",
+    "language": "Norfolk",
+    "script": "Latn",
+    "name": "Norfolk Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ss",
+    "language": "Swati",
+    "script": "Latn",
+    "name": "Swati Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ve",
+    "language": "Venda",
+    "script": "Latn",
+    "name": "Venda Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "bi",
+    "language": "Bislama",
+    "script": "Latn",
+    "name": "Bislama Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "rw",
+    "language": "Kinyarwanda",
+    "script": "Latn",
+    "name": "Kinyarwanda Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ch",
+    "language": "Chamorro",
+    "script": "Latn",
+    "name": "Chamorro Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "arz",
+    "language": "Egyptian Arabic",
+    "script": "Arab/Latn",
+    "name": "Egyptian Arabic Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "xh",
+    "language": "Xhosa",
+    "script": "Latn",
+    "name": "Xhosa Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "kl",
+    "language": "Greenlandic",
+    "script": "Latn",
+    "name": "Greenlandic Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ik",
+    "language": "Inupiak",
+    "script": "Latn",
+    "name": "Inupiak Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "bug",
+    "language": "Buginese",
+    "script": "Bugi",
+    "name": "Buginese Wikipedia",
+    "size": "4"
+  },
+  {
+    "code": "dz",
+    "language": "Dzongkha",
+    "script": "Tibt",
+    "name": "Dzongkha Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ts",
+    "language": "Tsonga",
+    "script": "Latn",
+    "name": "Tsonga Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "tn",
+    "language": "Tswana",
+    "script": "Latn",
+    "name": "Tswana Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "kv",
+    "language": "Komi",
+    "script": "Cyrl",
+    "name": "Komi Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "tum",
+    "language": "Tumbuka",
+    "script": "Latn",
+    "name": "Tumbuku Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "xal",
+    "language": "Kalmyk",
+    "script": "Cyrl",
+    "name": "Kalmyk Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "st",
+    "language": "Sesotho",
+    "script": "Latn",
+    "name": "Sesotho Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "tw",
+    "language": "Twi",
+    "script": "Latn",
+    "name": "Twi Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "bxr",
+    "language": "Buryat (Russia)",
+    "script": "Cyrl",
+    "name": "Buryat (Russia) Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ak",
+    "language": "Akan",
+    "script": "Latn",
+    "name": "Akan Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ab",
+    "language": "Abkhazian",
+    "script": "Cyrl",
+    "name": "Abkhazian Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ny",
+    "language": "Chichewa",
+    "script": "Latn",
+    "name": "Chichewa Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "fj",
+    "language": "Fijian",
+    "script": "Latn",
+    "name": "Fijian Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "lbe",
+    "language": "Lak",
+    "script": "Cyrl",
+    "name": "Lak Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "ki",
+    "language": "Kikuyu",
+    "script": "Latn",
+    "name": "Kikuyu Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "za",
+    "language": "Zhuang",
+    "script": "Latn",
+    "name": "Zhuang Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ff",
+    "language": "Fula",
+    "script": "Latn",
+    "name": "Fula Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "lg",
+    "language": "Luganda",
+    "script": "Latn",
+    "name": "Luganda Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "sn",
+    "language": "Shona",
+    "script": "Latn",
+    "name": "Shona Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ha",
+    "language": "Hausa",
+    "script": "Latn",
+    "name": "Hausa Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "sg",
+    "language": "Sango",
+    "script": "Latn",
+    "name": "Sango Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ii",
+    "language": "Sichuan Yi",
+    "script": "Yiii",
+    "name": "Sichuan Yi Wikipedia",
+    "size": "1"
+  },
+  {
+    "code": "cho",
+    "language": "Choctaw",
+    "script": "Latn",
+    "name": "Choctaw Wikipedia",
+    "size": "1"
+  },
+  {
+    "code": "rn",
+    "language": "Kirundi",
+    "script": "Latn",
+    "name": "Kirundi Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "mh",
+    "language": "Marshallese",
+    "script": "Latn",
+    "name": "Marshallese Wikipedia",
+    "size": "1"
+  },
+  {
+    "code": "chy",
+    "language": "Cheyenne",
+    "script": "Latn",
+    "name": "Cheyenne Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "ng",
+    "language": "Ndonga",
+    "script": "Latn",
+    "name": "Ndonga Wikipedia",
+    "size": "1"
+  },
+  {
+    "code": "kj",
+    "language": "Kuanyama",
+    "script": "Latn",
+    "name": "Kuanyama Wikipedia",
+    "size": "0"
+  },
+  {
+    "code": "ho",
+    "language": "Hiri Motu",
+    "script": "Latn",
+    "name": "Hiri Motu Wikipedia",
+    "size": "0"
+  },
+  {
+    "code": "mus",
+    "language": "Muscogee",
+    "script": "Latn",
+    "name": "Muscogee Wikipedia",
+    "size": "0"
+  },
+  {
+    "code": "kr",
+    "language": "Kanuri",
+    "script": "Latn",
+    "name": "Kanuri Wikipedia",
+    "size": "0"
+  },
+  {
+    "code": "hz",
+    "language": "Herero",
+    "script": "Latn",
+    "name": "Herero Wikipedia",
+    "size": "0"
+  },
+  {
+    "code": "mwl",
+    "language": "Moloko",
+    "script": "Latn",
+    "name": "Moloko Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "pa",
+    "language": "Punjabi",
+    "script": "Guru",
+    "name": "Punjabi Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "xmf",
+    "language": "Mingrelian",
+    "script": "Geor",
+    "name": "Mingrelian Wikipedia",
+    "size": "3"
+  },
+  {
+    "code": "lez",
+    "language": "Lezgian",
+    "script": "Cyrl",
+    "name": "Lezgi Wikipedia",
+    "size": "2"
+  },
+  {
+    "code": "chm",
+    "language": "Champenoisian",
+    "script": "Latn",
+    "name": "Champenois Wikipedia",
+    "size": "2"
+  }
+]

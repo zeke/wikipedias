@@ -1,28 +1,57 @@
-# Wikipedia Edition Codes
+# Wikipedias
 
-> English-language representations of Wikidpedia's international subdomain codes.
-
-Each Wikipedia has a code, which is used as a subdomain below wikipedia.org. Interlanguage links are sorted by that code. The codes represent the language codes defined by ISO 639-1 and ISO 639-3, and the decision of which language code to use is usually determined by the IETF language tag policy. For more details, see [en.wikipedia.org/wiki/List_of_Wikipedias](http://en.wikipedia.org/wiki/List_of_Wikipedias)
-
-This node module exports a Javascript array of all of these codes. Here's a sample of the object format:
-
-```js
-[
-  {"name":"English","script":"English","code":"en"},
-  {"name":"German","script":"Latn","code":"de"},
-  {"name":"French","script":"Latn","code":"fr"},
-  {"name":"Dutch","script":"Latn","code":"nl"}
-]
-```
+This is a node module containing metadata about Wikidpedia's international subdomain codes. The data was scraped from [List_of_Wikipedias#List](http://en.wikipedia.org/wiki/List_of_Wikipedias#List)
 
 ## Installation
 
 ```
-npm install wikipedia-edition-codes --save
+npm install wikipedias --save
 ```
 
 ## Usage
 
 ```js
-var codes = require('wikipedia-edition-codes');
+var wikipedias = require('wikipedias');
+console.log(wikipedias);
+
+{
+  en: {
+    code: 'en',
+    language: 'English',
+    script: 'English',
+    name: 'English Wikipedia',
+    size: '6'
+  },
+  de: {
+    code: 'de',
+    language: 'German',
+    script: 'Latn',
+    name: 'German Wikipedia',
+    size: '6'
+  },
+  fr: {
+    code: 'fr',
+    language: 'French',
+    script: 'Latn',
+    name: 'French Wikipedia',
+    size: '6'
+  },
+}
+
+```
+
+## Tests
+
+```
+npm test
+
+wikipedias
+  ✓ is an object
+  ✓ uses subdomains as object keys
+  each wikipedia
+    ✓ has a code
+    ✓ has a language
+    ✓ has a script
+    ✓ has a name
+    ✓ has a size
 ```
