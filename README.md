@@ -1,6 +1,6 @@
 # Wikipedias
 
-wikipedias is a node module containing metadata about Wikidpedia's international subdomain codes. The data was scraped from [List_of_Wikipedias#List](http://en.wikipedia.org/wiki/List_of_Wikipedias#List). It was created as a dependency of [ord.zeke.xxx](http://ord.zeke.xxx), a node app that uses Wikipedia to translate words into many languages.
+wikipedias is a node module containing metadata about Wikidpedia's international subdomain codes. The data was scraped from [List_of_Wikipedias#List](http://en.wikipedia.org/wiki/List_of_Wikipedias#List). It was created as a dependency of [Ord](http://ord.zeke.sikelianos.com/), a node app that uses Wikipedia to translate words into many languages.
 
 ## Installation
 
