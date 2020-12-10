@@ -4,7 +4,8 @@
   "description": "Metadata about Wikipedia's international subdomain codes",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "jest test.js && standard",
+    "lint": "standard --fix"
   },
   "repository": "https://github.com/zeke/wikipedias",
   "keywords": [
@@ -19,6 +20,11 @@
   "author": "zeke",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "~1.17.0"
+    "jest": "^26.6.3",
+    "mocha": "^8.2.1",
+    "standard": "^16.0.3"
+  },
+  "standard": {
+    "env": ["mocha"]
   }
 }
