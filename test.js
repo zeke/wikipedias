@@ -21,6 +21,13 @@ describe('wikipedias', function () {
       assert.strictEqual(wikipedias.de.language, 'German')
     })
 
+    it('has a languageData object', function () {
+      assert(wikipedias.de.languageData)
+      assert.strictEqual(wikipedias.de.languageData.nativeName[0], 'Deutsch')
+      assert(wikipedias.de.languageData.countries)
+      assert(wikipedias.de.languageData.countries[0].coordinates)
+    })
+
     it('has a script', function () {
       assert.strictEqual(wikipedias.de.script, 'Latn')
     })
