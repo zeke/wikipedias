@@ -1,6 +1,6 @@
 {
   "name": "wikipedias",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "Metadata about Wikipedia's international subdomain codes",
   "main": "index.json",
   "scripts": {
